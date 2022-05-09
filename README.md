@@ -6,3 +6,5 @@
   - Express
   - Docker
   - Swagger
+
+### Executar em sua máquina
