@@ -6,5 +6,6 @@
   - Express
   - Docker
   - Swagger
+  - PostgreSQL
 
 ### Executar em sua máquina
