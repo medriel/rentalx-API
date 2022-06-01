@@ -1,6 +1,9 @@
 # rentalx-API
 
-![image](https://user-images.githubusercontent.com/74268252/168425122-c58d0927-22b7-482c-8f7f-58914128d5b8.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74268252/171474078-1bc1e74e-202e-4e7f-87ab-33e3c8f9cdf4.png"/>
+</div>
+
 
 ### Tecnologias utilizadas:
   - Node.js
